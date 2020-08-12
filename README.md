@@ -1,2 +1,2 @@
 # ChatIO
-Simple Socket.io ChatApp Using Websockets
+Simple Socket.io ChatApp I/O Using Websockets
